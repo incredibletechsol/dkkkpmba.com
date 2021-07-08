@@ -1,0 +1,404 @@
+"2018-04-13 08:16:17",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Dr. Dole Bharati Sharad',designation='Director',qualification='Mcom,LLB,Phd',experience='33' where id='1'",299,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2018-04-13 08:18:01",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Dr. Dole Bharati Sharad',designation='Director',qualification='Mcom,LLB,Phd',experience='33' where id='1'",297,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2018-04-13 08:32:32",INFO,--,"Deleting Faculty Data :::delete from tbl_documents where docid='19'",208,/home/dkkkpmba/public_html/ControlPanel/documentactions.php
+"2018-04-13 08:33:24",INFO,--,"Deleting Faculty Data :::delete from tbl_documents where docid='19'",207,/home/dkkkpmba/public_html/ControlPanel/documentactions.php
+"2018-04-13 08:33:24",INFO,--,"Document Data Deleted",209,/home/dkkkpmba/public_html/ControlPanel/documentactions.php
+"2018-04-28 09:23:50",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='75'",175,/home/dkkkpmba/public_html/ControlPanel/galleryactions.php
+"2018-04-28 09:23:50",INFO,--,"Gallery Data Deleted",177,/home/dkkkpmba/public_html/ControlPanel/galleryactions.php
+"2018-04-28 09:24:24",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='77'",175,/home/dkkkpmba/public_html/ControlPanel/galleryactions.php
+"2018-04-28 09:24:24",INFO,--,"Gallery Data Deleted",177,/home/dkkkpmba/public_html/ControlPanel/galleryactions.php
+"2018-04-28 09:26:17",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('IMG-20180428-WA0003.jpg','Dr.Phadtare Shailaja Dattatray')",75,/home/dkkkpmba/public_html/ControlPanel/galleryactions.php
+"2018-04-28 09:26:17",INFO,--,"Gallery Data inserted",79,/home/dkkkpmba/public_html/ControlPanel/galleryactions.php
+"2018-04-28 09:26:59",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('IMG-20180428-WA0004.jpg','Dr.Phadtare Shailaja Dattatray')",75,/home/dkkkpmba/public_html/ControlPanel/galleryactions.php
+"2018-04-28 09:26:59",INFO,--,"Gallery Data inserted",79,/home/dkkkpmba/public_html/ControlPanel/galleryactions.php
+"2018-04-28 09:27:37",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('IMG-20180428-WA0005.jpg','Dr.Phadtare Shailaja Dattatray')",75,/home/dkkkpmba/public_html/ControlPanel/galleryactions.php
+"2018-04-28 09:27:37",INFO,--,"Gallery Data inserted",79,/home/dkkkpmba/public_html/ControlPanel/galleryactions.php
+"2018-04-28 09:41:47",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2018-03-09','Human Resource Management','A Study On Impact Of Human Resource Practices On Motivation Of Employees In Medium Scale Manufacturing Induestries In Pune District','','IMG-20180428-WA0005.jpg')",95,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2018-04-28 09:41:47",INFO,--,"News Data inserted",99,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2018-04-28 09:45:16",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2018-02-24','MBA Admission Open ','MBA Admission Open For 2018-19','','')",95,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2018-04-28 09:45:16",INFO,--,"News Data inserted",99,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2018-04-28 10:10:22",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2018-03-09','Human Resource Management','A Study On Impact Of Human Resource Practices On Motivation Of Employees In Medium Scale Manufacturing Induestries In Pune District','','IMG-20180428-WA0005.jpg')",95,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2018-04-28 10:10:22",INFO,--,"News Data inserted",99,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2018-04-28 10:10:29",INFO,--,"Deleting News Data :::delete from tbl_news where id='27'",194,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2018-04-28 10:10:29",INFO,--,"News Data Deleted",196,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2018-04-28 10:11:06",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2018-03-09','Human Resource Management','A Study On Impact Of Human Resource Practices On Motivation Of Employees In Medium Scale Manufacturing Induestries In Pune District','','IMG-20180428-WA0004.jpg')",95,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2018-04-28 10:11:06",INFO,--,"News Data inserted",99,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2018-04-28 10:11:25",INFO,--,"Deleting News Data :::delete from tbl_news where id='28'",194,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2018-04-28 10:11:25",INFO,--,"News Data Deleted",196,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2018-04-28 10:11:55",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2018-03-09','Human Resource Management','A Study On Impact Of Human Resource Practices On Motivation Of Employees In Medium Scale Manufacturing Induestries In Pune District','','IMG-20180428-WA0003.jpg')",95,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2018-04-28 10:11:55",INFO,--,"News Data inserted",99,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2018-04-28 10:12:27",INFO,--,"Deleting News Data :::delete from tbl_news where id='25'",194,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2018-04-28 10:12:27",INFO,--,"News Data Deleted",196,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2018-05-16 16:06:28",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2018-05-16','Phishing/Abusive contents hosted in the server [incredibletechsolve.com]','Phishing/Abusive contents hosted in the server [incredibletechsolve.com]','','')",95,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2018-05-16 16:06:28",INFO,--,"News Data inserted",99,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2018-05-16 16:08:48",INFO,--,"Deleting News Data :::delete from tbl_news where id='30'",194,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2018-05-16 16:08:48",INFO,--,"News Data Deleted",196,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2018-07-08 08:56:06",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Dr. Dole Bharati Sharad',designation='Director',qualification='Mcom,LLB,Phd',experience='33',photo='Dr. Dole Bharati Sharad.jpg' where id='1'",338,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2019-04-13 05:02:29",INFO,--,"Inserting new Faculty Data :::INSERT INTO tbl_faculty(type,name,designation,qualification,experience,photo) values('Teaching','Amit Bhalerao','sad','MSC','14','Tulips.jpg')",108,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2019-04-13 05:02:29",INFO,--,"Faculty Data inserted",112,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2019-04-13 05:03:34",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='48'",229,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2019-04-13 05:03:34",INFO,--,"Faculty Data Deleted",231,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2019-04-13 05:04:24",INFO,--,"Inserting new Faculty Data :::INSERT INTO tbl_faculty(type,name,designation,qualification,experience,photo) values('Teaching','Amit Bhalerao','sad','MSC','15','619f7c13dd12f41acd4bbd8dcd9fcf4c.jpg')",108,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2019-04-13 05:04:24",INFO,--,"Faculty Data inserted",112,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2019-04-13 05:05:42",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='49'",229,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2019-04-13 05:05:42",INFO,--,"Faculty Data Deleted",231,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2019-05-01 12:55:21",INFO,--,"Inserting new Faculty Data :::INSERT INTO tbl_faculty(type,name,designation,qualification,experience,photo) values('Teaching','dfs','dsd','sssd','1','5f0722df38aa474076d33536fb037064.gif')",108,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2019-05-01 12:55:21",INFO,--,"Faculty Data inserted",112,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2019-05-01 12:57:06",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='50'",229,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2019-05-01 12:57:06",INFO,--,"Faculty Data Deleted",231,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2019-05-12 19:34:43",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Mr.Phadtare Mangesh Babasaheb',designation='C.E.O',qualification='MBA',experience='9',photo='Mr.Phadtare Mangesh Babasaheb.php' where id='8'",369,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2019-05-12 19:35:46",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='up1',designation='C.E.O',qualification='MBA',experience='9',photo='up1.php' where id='8'",369,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2019-05-12 19:37:06",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2019-05-02','dsadsa','ads1','','sadasw.php.jpg')",95,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-05-12 19:37:06",INFO,--,"News Data inserted",99,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-05-12 19:37:20",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2019-05-02','dsadsa','ads1','','sadasw.php')",95,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-05-12 19:37:20",INFO,--,"News Data inserted",99,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-05-12 19:38:52",INFO,--,"Inserting new Document Data :::INSERT INTO tbl_documents(category,description,filename) values('General','111','123.php')",92,/home/dkkkpmba/public_html/ControlPanel/documentactions.php
+"2019-05-12 19:38:52",INFO,--,"Document Data inserted",96,/home/dkkkpmba/public_html/ControlPanel/documentactions.php
+"2019-05-12 19:41:53",INFO,--,"Inserting new Document Data :::INSERT INTO tbl_documents(category,description,filename) values('General','sdfds','wso.php')",92,/home/dkkkpmba/public_html/ControlPanel/documentactions.php
+"2019-05-12 19:41:53",INFO,--,"Document Data inserted",96,/home/dkkkpmba/public_html/ControlPanel/documentactions.php
+"2019-05-16 17:29:52",INFO,--,"Deleting News Data :::delete from tbl_news where id='37'",194,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-05-16 17:29:52",INFO,--,"News Data Deleted",196,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-05-16 17:29:59",INFO,--,"Deleting News Data :::delete from tbl_news where id='38'",194,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-05-16 17:29:59",INFO,--,"News Data Deleted",196,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-05-18 21:16:03",INFO,--,"Inserting new Document Data :::INSERT INTO tbl_documents(category,description,filename) values('General','111','123.php')",92,/home/dkkkpmba/public_html/ControlPanel/documentactions.php
+"2019-05-18 21:16:03",INFO,--,"Document Data inserted",96,/home/dkkkpmba/public_html/ControlPanel/documentactions.php
+"2019-06-14 17:37:07",INFO,--,"Deleting Faculty Data :::delete from tbl_documents where docid='31'",207,/home/dkkkpmba/public_html/ControlPanel/documentactions.php
+"2019-06-14 17:37:07",INFO,--,"Document Data Deleted",209,/home/dkkkpmba/public_html/ControlPanel/documentactions.php
+"2019-06-14 17:37:11",INFO,--,"Deleting Faculty Data :::delete from tbl_documents where docid='29'",207,/home/dkkkpmba/public_html/ControlPanel/documentactions.php
+"2019-06-14 17:37:11",INFO,--,"Document Data Deleted",209,/home/dkkkpmba/public_html/ControlPanel/documentactions.php
+"2019-06-14 17:37:18",INFO,--,"Deleting Faculty Data :::delete from tbl_documents where docid='30'",207,/home/dkkkpmba/public_html/ControlPanel/documentactions.php
+"2019-06-14 17:37:18",INFO,--,"Document Data Deleted",209,/home/dkkkpmba/public_html/ControlPanel/documentactions.php
+"2019-06-14 17:37:40",INFO,--,"Deleting Faculty Data :::delete from tbl_documents where docid='28'",207,/home/dkkkpmba/public_html/ControlPanel/documentactions.php
+"2019-06-14 17:37:40",INFO,--,"Document Data Deleted",209,/home/dkkkpmba/public_html/ControlPanel/documentactions.php
+"2019-08-12 08:21:58",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2019-08-01','t','tt','a.php','')",95,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-08-12 08:21:58",INFO,--,"News Data inserted",99,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-08-12 08:22:38",INFO,--,"Deleting News Data :::delete from tbl_news where id='39'",194,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-08-12 08:22:38",INFO,--,"News Data Deleted",196,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-08-12 08:50:45",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('a.php','test')",75,/home/dkkkpmba/public_html/ControlPanel/galleryactions.php
+"2019-08-12 08:50:45",INFO,--,"Gallery Data inserted",79,/home/dkkkpmba/public_html/ControlPanel/galleryactions.php
+"2019-08-12 08:51:43",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='81'",175,/home/dkkkpmba/public_html/ControlPanel/galleryactions.php
+"2019-08-12 08:51:43",INFO,--,"Gallery Data Deleted",177,/home/dkkkpmba/public_html/ControlPanel/galleryactions.php
+"2019-08-12 08:52:48",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2019-08-03','test','test','a.php','d.php3')",95,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-08-12 08:52:48",INFO,--,"News Data inserted",99,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-08-12 08:54:13",INFO,--,"Deleting News Data :::delete from tbl_news where id='40'",194,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-08-12 08:54:13",INFO,--,"News Data Deleted",196,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-08-16 06:34:48",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Mr.Mangesh Phadtare',designation='C.E.O',qualification='MBA',experience='9' where id='8'",328,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2019-08-16 06:35:49",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Mr.Mangesh Phadtare',designation='C.E.O',qualification='MBA',experience='9',photo='Mr.Mangesh Phadtare.jpg' where id='8'",369,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2019-08-29 10:16:09",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('IMG-20190829-WA0047.jpg','Yoga Day')",75,/home/dkkkpmba/public_html/ControlPanel/galleryactions.php
+"2019-08-29 10:16:09",INFO,--,"Gallery Data inserted",79,/home/dkkkpmba/public_html/ControlPanel/galleryactions.php
+"2019-09-20 10:35:16",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2019-09-20','Against Cap Vacancies Advertisement','Against Cap Vacancies Advertisement-2019/2020','Add.JPG','')",95,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-09-20 10:35:16",INFO,--,"News Data inserted",99,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-09-20 10:48:48",INFO,--,"Deleting News Data :::delete from tbl_news where id='41'",194,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-09-20 10:48:48",INFO,--,"News Data Deleted",196,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-09-20 10:49:46",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2019-09-20','Against Cap Vacancies Advertisement-2019/2020','Against Cap Vacancies Advertisement-2019/2020','Doc1.pdf','ADD1.jpg')",95,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-09-20 10:49:46",INFO,--,"News Data inserted",99,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-09-21 09:05:23",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2019-09-21','Provisional Merit List Against Cancellation Vacant Seats ','Provisional Merit List Against Cancellation / Vacant Seats - 2019-20','PROVISIONAL MERIT LIST 2019-20.pdf','')",95,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-09-21 09:05:23",INFO,--,"News Data inserted",99,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-10-18 05:03:29",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='80'",175,/home/dkkkpmba/public_html/ControlPanel/galleryactions.php
+"2019-10-18 05:03:29",INFO,--,"Gallery Data Deleted",177,/home/dkkkpmba/public_html/ControlPanel/galleryactions.php
+"2019-10-18 05:03:34",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='80'",175,/home/dkkkpmba/public_html/ControlPanel/galleryactions.php
+"2019-10-18 05:03:34",INFO,--,"Gallery Data Deleted",177,/home/dkkkpmba/public_html/ControlPanel/galleryactions.php
+"2019-10-18 05:03:48",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='78'",175,/home/dkkkpmba/public_html/ControlPanel/galleryactions.php
+"2019-10-18 05:03:48",INFO,--,"Gallery Data Deleted",177,/home/dkkkpmba/public_html/ControlPanel/galleryactions.php
+"2019-10-18 05:04:17",INFO,--,"Deleting Gallery Data :::delete from tbl_gallery where photoid='69'",175,/home/dkkkpmba/public_html/ControlPanel/galleryactions.php
+"2019-10-18 05:04:17",INFO,--,"Gallery Data Deleted",177,/home/dkkkpmba/public_html/ControlPanel/galleryactions.php
+"2019-10-18 05:05:06",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('20190923_152448.jpg','Tree Plantation')",75,/home/dkkkpmba/public_html/ControlPanel/galleryactions.php
+"2019-10-18 05:05:06",INFO,--,"Gallery Data inserted",79,/home/dkkkpmba/public_html/ControlPanel/galleryactions.php
+"2019-10-18 05:05:30",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('20190923_152649.jpg','Tree Plantation2')",75,/home/dkkkpmba/public_html/ControlPanel/galleryactions.php
+"2019-10-18 05:05:30",INFO,--,"Gallery Data inserted",79,/home/dkkkpmba/public_html/ControlPanel/galleryactions.php
+"2019-10-18 05:05:57",INFO,--,"Inserting new Gallery Data :::INSERT INTO tbl_gallery(name,title) values('20190923_165038.jpg','Tree Plantation3')",75,/home/dkkkpmba/public_html/ControlPanel/galleryactions.php
+"2019-10-18 05:05:57",INFO,--,"Gallery Data inserted",79,/home/dkkkpmba/public_html/ControlPanel/galleryactions.php
+"2019-10-18 05:06:42",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Dr.Shastri Jayant Haripant',designation='Professor',qualification='MBA,Phd',experience='22' where id='9'",328,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2019-10-18 05:10:05",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2019-09-24','Tree Plantation','As per the norms of Govt.of Maharashtra (33 Crore Plantation) initative.','','20190923_152448.jpg')",95,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-10-18 05:10:05",INFO,--,"News Data inserted",99,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-11-12 18:16:16",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2019-11-11','Admission Form ','https://docs.google.com/forms/d/e/1FAIpQLScoP_fvYbgsuMBaJcTBvcjmRDxl6o06VNreXZDZ1Js-B16t5g/viewform?edit2=2_ABaOnuelqMY2M13UdFT8YdRHyMf4-I7tsmIzO5BnitpT6NV054oCSzJmoX0','','')",95,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-11-12 18:16:16",INFO,--,"News Data inserted",99,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-11-21 04:05:47",INFO,--,"Deleting News Data :::delete from tbl_news where id='45'",194,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-11-21 04:05:47",INFO,--,"News Data Deleted",196,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-11-21 04:06:14",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2019-11-01','Admission Form','https://docs.google.com/forms/d/10f9MTk3S7JFelsFyMGuAAEvwAGE_CsJ9BbjfymYWkJI/prefill','','')",95,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-11-21 04:06:14",INFO,--,"News Data inserted",99,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-11-21 04:08:22",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2019-11-21','https://docs.google.com/forms/d/10f9MTk3S7JFelsFyMGuAAEvwAGE_CsJ9BbjfymYWkJI/prefill','https://docs.google.com/forms/d/10f9MTk3S7JFelsFyMGuAAEvwAGE_CsJ9BbjfymYWkJI/prefill ','','')",95,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-11-21 04:08:22",INFO,--,"News Data inserted",99,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-11-21 04:08:52",INFO,--,"Deleting News Data :::delete from tbl_news where id='47'",194,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-11-21 04:08:52",INFO,--,"News Data Deleted",196,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-11-21 04:10:12",INFO,--,"Deleting News Data :::delete from tbl_news where id='46'",194,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-11-21 04:10:12",INFO,--,"News Data Deleted",196,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-11-21 04:10:55",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2019-11-01','Admission Form','https://docs.google.com/forms/d/10f9MTk3S7JFelsFyMGuAAEvwAGE_CsJ9BbjfymYWkJI/prefill ','MBA-I Specialization Link.docx','')",95,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-11-21 04:10:55",INFO,--,"News Data inserted",99,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-11-22 10:19:14",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='22'",229,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2019-11-22 10:19:14",INFO,--,"Faculty Data Deleted",231,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2019-11-22 10:20:53",INFO,--,"Inserting new Faculty Data :::INSERT INTO tbl_faculty(type,name,designation,qualification,experience,photo) values('Teaching','Mr.Kodalkar Hanumant Babu','Librarian','MA,MLIB,SET','4','d7c3cccdb7ae5be82bc63485af77a418.jpg')",108,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2019-11-22 10:20:53",INFO,--,"Faculty Data inserted",112,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2019-12-28 08:06:27",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2019-12-28','MBA Online Exam Timetable','MBA Online Exam Timetable Oct. / Nov. 2019-2020','MBA Online Exam Timetable_06.12.2019.pdf','')",95,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-12-28 08:06:27",INFO,--,"News Data inserted",99,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-12-28 08:08:36",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2019-12-28','MBA Online Exam Timetable','MBA Online Exam Timetable Oct. / Nov. 2019-2020','MBA Online Exam Timetable_06.12.2019.pdf','')",95,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-12-28 08:08:36",INFO,--,"News Data inserted",99,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-12-31 04:30:50",INFO,--,"Deleting News Data :::delete from tbl_news where id='50'",194,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-12-31 04:30:50",INFO,--,"News Data Deleted",196,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-12-31 04:32:29",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2019-12-28','MBA Online Exam Timetable','MBA Online Exam Timetable Oct. / Nov. 2019-2020','MBA Online Exam Timetable_06.12.2019.pdf','')",95,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-12-31 04:32:29",INFO,--,"News Data inserted",99,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2019-12-31 04:37:43",INFO,--,"Inserting new Document Data :::INSERT INTO tbl_documents(category,description,filename) values('General','Master of Business Administration (MBA) – Revised Syllabus 2019','MBA_Revised Syllabus 2019 23-10-19_24.102019.pdf')",92,/home/dkkkpmba/public_html/ControlPanel/documentactions.php
+"2019-12-31 04:37:43",INFO,--,"Document Data inserted",96,/home/dkkkpmba/public_html/ControlPanel/documentactions.php
+"2020-01-04 07:57:48",INFO,--,"Deleting News Data :::delete from tbl_news where id='51'",194,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2020-01-04 07:57:48",INFO,--,"News Data Deleted",196,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2020-01-04 07:57:54",INFO,--,"Deleting News Data :::delete from tbl_news where id='49'",194,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2020-01-04 07:57:54",INFO,--,"News Data Deleted",196,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2020-01-04 07:58:02",INFO,--,"Deleting News Data :::delete from tbl_news where id='48'",194,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2020-01-04 07:58:02",INFO,--,"News Data Deleted",196,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2020-01-06 07:26:16",INFO,--,"Deleting Alumini Data :::delete from tbl_alumini where id='9'",68,/home/dkkkpmba/public_html/ControlPanel/aluminiactions.php
+"2020-01-06 07:26:16",INFO,--,"Alumini Data Deleted",70,/home/dkkkpmba/public_html/ControlPanel/aluminiactions.php
+"2020-01-06 07:27:41",INFO,--,"Deleting Alumini Data :::delete from tbl_alumini where id='11'",68,/home/dkkkpmba/public_html/ControlPanel/aluminiactions.php
+"2020-01-06 07:27:41",INFO,--,"Alumini Data Deleted",70,/home/dkkkpmba/public_html/ControlPanel/aluminiactions.php
+"2020-01-06 07:28:53",INFO,--,"Deleting Alumini Data :::delete from tbl_alumini where id='12'",68,/home/dkkkpmba/public_html/ControlPanel/aluminiactions.php
+"2020-01-06 07:28:53",INFO,--,"Alumini Data Deleted",70,/home/dkkkpmba/public_html/ControlPanel/aluminiactions.php
+"2020-05-26 03:28:06",INFO,--,"Deleting News Data :::delete from tbl_news where id='29'",194,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2020-05-26 03:28:06",INFO,--,"News Data Deleted",196,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2020-06-15 16:15:23",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('xfx','Admission Form ','gj','','')",95,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2020-06-15 16:15:23",INFO,--,"News Data inserted",99,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2020-06-15 16:15:39",INFO,--,"Deleting News Data :::delete from tbl_news where id='52'",194,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2020-06-15 16:15:39",INFO,--,"News Data Deleted",196,/home/dkkkpmba/public_html/ControlPanel/newsactions.php
+"2020-06-15 16:17:42",INFO,--,"Deleting Alumini Data :::delete from tbl_alumini where id='13'",68,/home/dkkkpmba/public_html/ControlPanel/aluminiactions.php
+"2020-06-15 16:17:42",INFO,--,"Alumini Data Deleted",70,/home/dkkkpmba/public_html/ControlPanel/aluminiactions.php
+"2020-06-19 06:22:38",INFO,--,"Deleting Alumini Data :::delete from tbl_alumini where id='14'",68,/home/dkkkpmba/public_html/ControlPanel/aluminiactions.php
+"2020-06-19 06:22:38",INFO,--,"Alumini Data Deleted",70,/home/dkkkpmba/public_html/ControlPanel/aluminiactions.php
+"2020-06-19 06:22:44",INFO,--,"Deleting Alumini Data :::delete from tbl_alumini where id='10'",68,/home/dkkkpmba/public_html/ControlPanel/aluminiactions.php
+"2020-06-19 06:22:44",INFO,--,"Alumini Data Deleted",70,/home/dkkkpmba/public_html/ControlPanel/aluminiactions.php
+"2020-06-19 06:23:40",INFO,--,"Inserting new Faculty Data :::INSERT INTO tbl_faculty(type,name,designation,qualification,experience,photo) values('Teaching','5645','jo65','54k','1','3e7463bea2a61609c5aee1bab11f062a.jpg')",108,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-06-19 06:23:40",INFO,--,"Faculty Data inserted",112,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-06-19 06:23:53",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='52'",229,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-06-19 06:23:53",INFO,--,"Faculty Data Deleted",231,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-06-19 06:25:35",INFO,--,"Inserting new Document Data :::INSERT INTO tbl_documents(category,description,filename) values('Notes','+85lkj','Estimate_1_14-01-2020.pdf')",92,/home/dkkkpmba/public_html/ControlPanel/documentactions.php
+"2020-06-19 06:25:35",INFO,--,"Document Data inserted",96,/home/dkkkpmba/public_html/ControlPanel/documentactions.php
+"2020-06-19 06:26:11",INFO,--,"Deleting Faculty Data :::delete from tbl_documents where docid='33'",207,/home/dkkkpmba/public_html/ControlPanel/documentactions.php
+"2020-06-19 06:26:11",INFO,--,"Document Data Deleted",209,/home/dkkkpmba/public_html/ControlPanel/documentactions.php
+"2020-08-20 07:12:36",INFO,--,"Deleting Alumini Data :::delete from tbl_alumini where id='15'",68,/home/dkkkpmba/public_html/ControlPanel/aluminiactions.php
+"2020-08-20 07:12:36",INFO,--,"Alumini Data Deleted",70,/home/dkkkpmba/public_html/ControlPanel/aluminiactions.php
+"2020-09-30 08:57:51",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='51'",229,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-09-30 08:57:51",INFO,--,"Faculty Data Deleted",231,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-09-30 08:58:06",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='30'",229,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-09-30 08:58:06",INFO,--,"Faculty Data Deleted",231,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-09-30 08:58:41",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='8'",229,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-09-30 08:58:41",INFO,--,"Faculty Data Deleted",231,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-09-30 08:59:54",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='40'",229,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-09-30 08:59:54",INFO,--,"Faculty Data Deleted",231,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-09-30 09:00:11",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='39'",229,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-09-30 09:00:12",INFO,--,"Faculty Data Deleted",231,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-09-30 09:00:48",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='9'",229,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-09-30 09:00:48",INFO,--,"Faculty Data Deleted",231,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-09-30 09:00:59",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='12'",229,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-09-30 09:00:59",INFO,--,"Faculty Data Deleted",231,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 06:43:15",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='31'",229,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 06:43:15",INFO,--,"Faculty Data Deleted",231,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 06:43:48",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Non-Teaching',name='Mr.Pawar Sunil Janardhan',designation='System Admin',qualification='B.C.S',experience='4' where id='29'",328,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 06:44:09",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Non-Teaching',name='Mr.Jadhav Vaibhav Shivaji',designation='Clerk',qualification='B.A',experience='10' where id='32'",328,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 06:44:20",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='31'",229,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 06:44:20",INFO,--,"Faculty Data Deleted",231,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 06:44:21",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Supporting',name='Mr.Danane Pandurang',designation='Peon',qualification='S.S.C',experience='10' where id='37'",328,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 06:44:32",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Supporting',name='Miss.Veer Suvarna S.',designation='Peon',qualification='S.S.C',experience='8' where id='38'",328,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 06:44:52",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Mr.Sorate Siddhart Prabhakar ',designation='Assistant Professor',qualification='MBA,Phd (Pursuing)',experience='7' where id='21'",328,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 06:45:05",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Dr. Dole Bharati Sharad',designation='Director',qualification='Mcom,LLB,Phd',experience='36' where id='1'",328,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 06:45:15",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Miss.Ranaware Sandhya c',designation='Assistant Professor',qualification='MBA',experience='9' where id='13'",328,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 06:45:32",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='',name='',designation='',qualification='',experience='' where id=''",328,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 06:46:07",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Mr.Nimbalkar Vipul Virsinh',designation='Assistant Professor',qualification='MBA,Phd (Pursuing)',experience='9' where id='17'",328,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 06:46:17",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Dr.Phadtare Shailaja Dattatray',designation='Assistant Professor',qualification='MBA, Ph.D',experience='6' where id='19'",328,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 06:46:57",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Dr. Nimbalkar Vipul Virsinh',designation='Assistant Professor',qualification='MBA,Phd ',experience='9' where id='17'",328,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 06:48:44",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Dr. Nimbalkar Vipul Virsinh',designation='Assistant Professor',qualification='M.com,MBA,SET,NET,Phd ',experience='9' where id='17'",328,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 06:50:07",INFO,--,"Inserting new Faculty Data :::INSERT INTO tbl_faculty(type,name,designation,qualification,experience,photo) values('Non-Teaching','Mr.Kedar Dhananjay Sanjiv','Clerk','B.com','1','90a6ef0efce1062c134082bebfaa234a.jpg')",108,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 06:50:07",INFO,--,"Faculty Data inserted",112,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 06:55:39",INFO,--,"Inserting new Faculty Data :::INSERT INTO tbl_faculty(type,name,designation,qualification,experience,photo) values('Teaching','Miss.Chougule Swati Atmaram','Assistant Professor','MBA','1','6d3e8fc436996ba7670a70420aa46671.jpg')",108,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 06:55:39",INFO,--,"Faculty Data inserted",112,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 06:56:47",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Supporting',name='Mr.Waghela Premchand',designation='CLening-T',qualification='S.S.C',experience='10' where id='43'",328,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 06:57:00",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Supporting',name='Mr.Kengar Uttam Bapu',designation='Watchman',qualification='S.S.C',experience='7' where id='45'",328,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 06:58:00",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Non-Teaching',name='Mr.Pawar Sunil Janardhan',designation='System Admin',qualification='B.C.S,MBA (Pursuing)',experience='4' where id='29'",328,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 07:00:28",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Dr. Dole Bharati Sharad',designation='Director',qualification='Mcom,LLB,Phd',experience='36' where id='1'",328,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 07:04:17",INFO,--,"Inserting new Faculty Data :::INSERT INTO tbl_faculty(type,name,designation,qualification,experience,photo) values('Teaching','Miss.Gaikwad Harshada Kishor','Assistant Professor','MBA','1','f4f3506b477f18c3c14d9ba772050d82.jpg')",108,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 07:04:17",INFO,--,"Faculty Data inserted",112,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 07:07:13",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Miss.Chougule Swati Atmaram',designation='Assistant Professor',qualification='MBA',experience='1' where id='54'",328,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 07:08:22",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Miss.Ranaware Sandhya c',designation='Assistant Professor',qualification='MBA',experience='9' where id='13'",328,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 07:08:31",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Miss.Rasal Pratibha',designation='Assistant Professor',qualification='MBA',experience='8' where id='14'",328,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 07:08:40",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Dr. Nimbalkar Vipul Virsinh',designation='Assistant Professor',qualification='M.com,MBA,SET,NET,Phd ',experience='9' where id='17'",328,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 07:08:48",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Dr.Phadtare Shailaja Dattatray',designation='Assistant Professor',qualification='MBA, Ph.D',experience='6' where id='19'",328,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 07:08:56",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Mr.Sorate Siddhart Prabhakar ',designation='Assistant Professor',qualification='MBA,Phd (Pursuing)',experience='7' where id='21'",328,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 07:09:07",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Mr.Sorate Siddhart Prabhakar ',designation='Assistant Professor',qualification='MBA,Phd (Pursuing)',experience='7' where id='21'",328,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-11-02 09:17:04",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Non-Teaching',name='Mr.Pawar Sunil Janardhan',designation='System Admin',qualification='B.C.S,MBA (Pursuing)',experience='4',photo='Mr.Pawar Sunil Janardhan.jpg' where id='29'",369,/home/dkkkpmba/public_html/ControlPanel/facultyactions.php
+"2020-12-19 13:02:31",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Dr. Arun Ingle',designation='Director',qualification='B.Sc., B.Ed, MBA, Ph.D. (Mgt.Sc.)',experience='34',photo='Dr. Arun Ingle.jpg' where id='1'",369,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/facultyactions.php
+"2020-12-19 17:08:20",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Non-Teaching',name='Mr.Pawar Sunil Janardhan',designation='System Admin',qualification='B.C.S,MBA ',experience='4' where id='29'",328,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/facultyactions.php
+"2020-12-19 17:16:45",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='14'",229,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/facultyactions.php
+"2020-12-19 17:16:45",INFO,--,"Faculty Data Deleted",231,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/facultyactions.php
+"2021-01-25 07:13:00",INFO,--,"Inserting new Faculty Data :::INSERT INTO tbl_faculty(type,name,designation,qualification,experience,photo) values('Teaching','Mrs. Phadtare Ankita Mangesh ','Assistant Professor','MBA','2','5ec23db181582e891ceb75534c0a2d25.jpg')",108,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/facultyactions.php
+"2021-01-25 07:13:00",INFO,--,"Faculty Data inserted",112,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/facultyactions.php
+"2021-01-25 07:13:58",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Mrs. Phadtare Ankita Mangesh ',designation='Assistant Professor',qualification='MBA',experience='2',photo='Mrs. Phadtare Ankita Mangesh .jpg' where id='56'",369,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/facultyactions.php
+"2021-02-20 16:55:32",INFO,--,"Deleting News Data :::delete from tbl_news where id='34'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-02-20 16:55:32",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-02-20 16:55:37",INFO,--,"Deleting News Data :::delete from tbl_news where id='36'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-02-20 16:55:37",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-02-20 16:55:43",INFO,--,"Deleting News Data :::delete from tbl_news where id='42'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-02-20 16:55:43",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-02-20 16:55:47",INFO,--,"Deleting News Data :::delete from tbl_news where id='43'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-02-20 16:55:47",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-02-20 16:55:54",INFO,--,"Deleting News Data :::delete from tbl_news where id='44'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-02-20 16:55:54",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-02-20 16:58:27",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2021-02-20','News','This news section is under development stage, all details will be displayed soon','','')",95,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-02-20 16:58:27",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-02-20 17:12:21",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Mr.Jadhav Vaibhav Shivaji',designation='Assistant Professor ',qualification='B.Com, M.Com, MBA',experience='12' where id='10'",328,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/facultyactions.php
+"2021-02-20 17:13:10",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Dr. Arun Ingle',designation='Campus Director DKKKP's Phadtare Knowledge CityDirectorMaharashtra Institute Of Management',qualification='B.Sc., B.Ed, MBA, Ph.D. (Mgt.Sc.)',experience='33' where id='1'",328,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/facultyactions.php
+"2021-02-20 17:13:49",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Dr. Nimbalkar Vipul Virsinh',designation='Assistant Professor',qualification='M.com,MBA,SET,NET,Phd ',experience='10' where id='2'",328,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/facultyactions.php
+"2021-02-20 17:14:21",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Dr. Sandhya Chhabanrao Khatavkar',designation='Assistant Professor',qualification='B.Sc, MBA, Phd',experience='9' where id='3'",328,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/facultyactions.php
+"2021-02-20 17:14:51",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Dr.Phadtare Shailaja Dattatray',designation='Assistant Professor',qualification=' B.Sc, MBA, Ph.D',experience='5' where id='4'",328,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/facultyactions.php
+"2021-02-20 17:15:17",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Mr. Mangesh Babasaheb Phadtare',designation='Assistant Professor',qualification='B.E, MBA',experience='3' where id='5'",328,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/facultyactions.php
+"2021-02-20 17:15:49",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Mrs. Phadtare Ankita Mangesh ',designation='Assistant Professor',qualification='B.Sc. Agri, MBA',experience='3' where id='6'",328,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/facultyactions.php
+"2021-02-20 17:16:40",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Miss.Chougule Swati Atmaram',designation='Assistant Professor',qualification='B.Sc. Agri, MBA ',experience='3' where id='8'",328,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/facultyactions.php
+"2021-02-20 17:17:13",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Miss.Chougule Swati Atmaram',designation='Assistant Professor',qualification='B.Sc. Agri, MBA ',experience='1' where id='8'",328,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/facultyactions.php
+"2021-03-07 07:57:22",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2021-01-31','Merit list ','Merit list 2020-21 (Against Cap)','','')",95,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-03-07 07:57:22",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-03-07 07:58:56",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2021-01-31','MBA I Schedule','MBA I Schedule 2020-21 (Against Cap)','','')",95,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-03-07 07:58:56",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-03-07 07:58:56",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('','','','','')",95,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-03-07 07:58:56",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-03-07 07:59:05",INFO,--,"Deleting News Data :::delete from tbl_news where id='56'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-03-07 07:59:05",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-03-07 08:00:37",INFO,--,"Deleting News Data :::delete from tbl_news where id='53'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-03-07 08:00:37",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-03-07 08:00:59",INFO,--,"Deleting News Data :::delete from tbl_news where id='54'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-03-07 08:00:59",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-03-07 08:01:39",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2021-01-31','Merit list ','MBA-I Merit list 2020-21 (Against Cap)','','')",95,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-03-07 08:01:39",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-03-07 08:02:49",INFO,--,"Deleting News Data :::delete from tbl_news where id='54'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-03-07 08:02:49",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 10:25:58",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2021-04-08','MBA Infrastructure ','MBA Infrastructure ','received_587254262200856.mp4','')",95,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 10:25:58",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 10:28:27",INFO,--,"Deleting News Data :::delete from tbl_news where id='58'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 10:28:27",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 11:03:32",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2021-04-08','MBA Infrastructure ','MBA Infrastructure ','My php demo full screen.MP4','')",95,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 11:03:32",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 11:03:52",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('','','','','')",95,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 11:03:52",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 11:03:57",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('','','','','')",95,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 11:03:57",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 11:04:01",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('','','','','')",95,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 11:04:01",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 11:04:14",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('','','','','')",95,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 11:04:14",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 11:52:46",INFO,--,"Deleting News Data :::delete from tbl_news where id='60'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 11:52:46",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 11:53:01",INFO,--,"Deleting News Data :::delete from tbl_news where id='61'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 11:53:01",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 11:53:44",INFO,--,"Deleting News Data :::delete from tbl_news where id='61'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 11:53:44",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 11:55:39",INFO,--,"Deleting News Data :::delete from tbl_news where id='61'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 11:55:39",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 11:57:39",INFO,--,"Deleting News Data :::delete from tbl_news where id='61'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 11:57:39",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 11:58:32",INFO,--,"Deleting News Data :::delete from tbl_news where id='61'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 11:58:32",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 11:59:03",INFO,--,"Deleting News Data :::delete from tbl_news where id='61'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 11:59:03",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 11:59:13",INFO,--,"Deleting News Data :::delete from tbl_news where id='63'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 11:59:13",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 11:59:43",INFO,--,"Deleting News Data :::delete from tbl_news where id='63'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 11:59:43",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 12:00:01",INFO,--,"Deleting News Data :::delete from tbl_news where id='62'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 12:00:01",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 12:00:10",INFO,--,"Deleting News Data :::delete from tbl_news where id='62'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-08 12:00:10",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-09 04:46:55",INFO,--,"Deleting News Data :::delete from tbl_news where id='59'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-09 04:46:55",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-09 04:49:16",INFO,--,"Deleting News Data :::delete from tbl_news where id='59'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-09 04:49:16",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-09 06:30:00",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('','','','','')",95,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-09 06:30:00",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-09 08:01:16",INFO,--,"Deleting News Data :::delete from tbl_news where id='64'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-09 08:01:16",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-09 08:03:44",INFO,--,"Deleting News Data :::delete from tbl_news where id='64'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-09 08:03:44",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-09 09:52:17",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2021-04-09','MBA Infrastructure ','MBA Infrastructure ','My php demo full screen.MP4','')",95,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-09 09:52:17",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-12 05:08:01",INFO,--,"Deleting News Data :::delete from tbl_news where id='65'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-12 05:08:01",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-12 05:08:01",INFO,--,"Deleting News Data :::delete from tbl_news where id='65'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-12 05:08:01",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-16 06:22:59",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2021-04-09','MBA Infrastructure','https://youtu.be/nlPosLwEb5s','','')",95,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-16 06:22:59",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-16 06:23:14",INFO,--,"Deleting News Data :::delete from tbl_news where id='66'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-16 06:23:14",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-16 06:24:29",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('','','','','')",95,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-16 06:24:29",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-16 06:25:38",INFO,--,"Deleting News Data :::delete from tbl_news where id='66'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-16 06:25:38",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-16 06:27:37",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2021-04-09','MBA Infrastructure','https://youtu.be/nlPosLwEb5s ','Youtube vedio link.pdf','')",95,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-16 06:27:37",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-16 06:28:49",INFO,--,"Deleting News Data :::delete from tbl_news where id='67'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-16 06:28:49",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-16 06:30:20",INFO,--,"Deleting News Data :::delete from tbl_news where id='67'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-04-16 06:30:20",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-10 09:31:57",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Dr. Nimbalkar Vipul Virsinh',designation='Associate Professor',qualification='M.com,MBA,SET,NET,Phd ',experience='10' where id='2'",328,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/facultyactions.php
+"2021-06-10 09:32:11",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Dr. Sandhya Chhabanrao Khatavkar',designation='Associate Professor Professor',qualification='B.Sc, MBA, Phd',experience='9' where id='3'",328,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/facultyactions.php
+"2021-06-10 09:32:33",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Dr.Phadtare Shailaja Dattatray',designation='Associate Professor ',qualification=' B.Sc, MBA, Ph.D',experience='5' where id='4'",328,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/facultyactions.php
+"2021-06-10 09:32:58",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Dr. Sandhya Chhabanrao Khatavkar',designation='Associate Professor ',qualification='B.Sc, MBA, Phd',experience='9' where id='3'",328,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/facultyactions.php
+"2021-06-10 09:34:17",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='',name='',designation='',qualification='',experience='' where id=''",328,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/facultyactions.php
+"2021-06-10 09:35:00",INFO,--,"Inserting new Faculty Data :::INSERT INTO tbl_faculty(type,name,designation,qualification,experience,photo) values('Teaching','Miss.Monica Vasantrao Akhade','Assistant Professor','M.com, MBA','10','67253ea13b31c33a8259c9ce4fd90e11.jpg')",108,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/facultyactions.php
+"2021-06-10 09:35:00",INFO,--,"Faculty Data inserted",112,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/facultyactions.php
+"2021-06-10 09:35:35",INFO,--,"Inserting new Faculty Data :::INSERT INTO tbl_faculty(type,name,designation,qualification,experience,photo) values('Teaching','Miss. Kalyani Vitthal Sutar','Assistant Professor','M.Com','2','a86772459539d6d70351994fe3bf24f3.jpg')",108,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/facultyactions.php
+"2021-06-10 09:35:35",INFO,--,"Faculty Data inserted",112,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/facultyactions.php
+"2021-06-12 05:28:27",INFO,--,"Deleting News Data :::delete from tbl_news where id='55'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:28:27",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:28:30",INFO,--,"Deleting News Data :::delete from tbl_news where id='57'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:28:30",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:29:35",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2021-04-08','Grievance Redressal Form','https://docs.google.com/forms/d/e/1FAIpQLSc7tiMub_fGwrArN12b5tDqtgX-8JEkWwiOi9Y52Qqp-cm2dA/viewform','','')",95,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:29:35",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:31:16",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('','','','','')",95,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:31:16",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:34:53",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2021-04-08','Grievance Redressal Form','https://docs.google.com/forms/d/e/1FAIpQLSc7tiMub_fGwrArN12b5tDqtgX-8JEkWwiOi9Y52Qqp-cm2dA/viewform','Greivance Redressal google form link.docx','')",95,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:34:53",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:34:58",INFO,--,"Deleting News Data :::delete from tbl_news where id='69'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:34:58",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:37:04",INFO,--,"Deleting News Data :::delete from tbl_news where id='69'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:37:04",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:40:43",INFO,--,"Deleting News Data :::delete from tbl_news where id='70'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:40:43",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:42:22",INFO,--,"Deleting News Data :::delete from tbl_news where id='70'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:42:22",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:42:25",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2021-04-08','Grievance Redressal Form','To fill greivance redressal form Now click on Download link ','','')",95,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:42:25",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:43:09",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2021-04-08','Grievance Redressal Form','To fill greivance redressal form Now click on Download link','Greivance Redressal google form link.pdf','')",95,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:43:09",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:43:14",INFO,--,"Deleting News Data :::delete from tbl_news where id='72'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:43:14",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:43:18",INFO,--,"Deleting News Data :::delete from tbl_news where id='71'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:43:18",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:45:24",INFO,--,"Deleting News Data :::delete from tbl_news where id='72'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:45:24",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:53:32",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2021-04-09','Grievance Redressal Form','To fill greivance redressal form Now click on Download link','Greivance Redressal google form link.pdf','')",95,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:53:32",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:53:39",INFO,--,"Deleting News Data :::delete from tbl_news where id='73'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:53:39",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:55:07",INFO,--,"Deleting News Data :::delete from tbl_news where id='73'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:55:07",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:57:29",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2021-04-08','Grievance Redressal Form','To fill greivance redressal form Now click on Download link','Greivance Redressal google form link1.pdf','')",95,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:57:29",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:57:58",INFO,--,"Deleting News Data :::delete from tbl_news where id='75'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 05:57:58",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 06:00:27",INFO,--,"Deleting News Data :::delete from tbl_news where id='75'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 06:00:27",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 06:01:34",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2021-04-08','Grievance Redressal Form','To fill greivance redressal form Now click on Download link','Greivance Redressal google form link.pdf','')",95,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 06:01:34",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 06:03:33",INFO,--,"Deleting News Data :::delete from tbl_news where id='74'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 06:03:33",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 06:03:37",INFO,--,"Deleting News Data :::delete from tbl_news where id='76'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 06:03:37",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 06:04:22",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2021-04-09','Grievance Redressal Form','To fill greivance redressal form Now click on Download link https://docs.google.com/forms/d/e/1FAIpQLSc7tiMub_fGwrArN12b5tDqtgX-8JEkWwiOi9Y52Qqp-cm2dA/viewform','Greivance Redressal google form link.docx','')",95,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 06:04:22",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 06:06:18",INFO,--,"Deleting News Data :::delete from tbl_news where id='74'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 06:06:18",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 06:06:55",INFO,--,"Deleting News Data :::delete from tbl_news where id='77'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 06:06:55",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 06:07:09",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2021-04-08','Grievance Redressal Form','To fill greivance redressal form Now click on Download link','Greivance Redressal google form link.pdf','')",95,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 06:07:09",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 06:09:19",INFO,--,"Deleting News Data :::delete from tbl_news where id='77'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 06:09:19",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 06:11:19",INFO,--,"Deleting News Data :::delete from tbl_news where id='78'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 06:11:19",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 06:11:34",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2021-04-09','Grievance Redressal Form','To fill greivance redressal form Now click on Download link','Greivance Redressal google form link.pdf','')",95,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 06:11:34",INFO,--,"News Data inserted",99,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 06:13:31",INFO,--,"Deleting News Data :::delete from tbl_news where id='78'",194,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
+"2021-06-12 06:13:31",INFO,--,"News Data Deleted",196,/home/kasturic/public_html/Websites/dkkkpmba.com/ControlPanel/newsactions.php
